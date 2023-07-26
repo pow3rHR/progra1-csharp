@@ -1,5 +1,5 @@
-﻿// Ejercicio #4
+﻿// Ejercicio #5
 
-double m = (2 + 4 + 6 + 8 + 10) / 5;
+char d = 'D', i = 'i', e = 'e', g = 'g', o = 'o';
 
-Console.WriteLine(m);
+Console.WriteLine(d + "\t" + i + "\t" + e + "\t" + g + "\t" + o);
