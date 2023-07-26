@@ -43,11 +43,11 @@ else if (salarioNeto > 895.25 && salarioNeto <= 2038.10)
 
 else if (salarioNeto > 2038.11)
 {
-    tramo = "III";
+    tramo = "IV";
     retencion = Math.Round((salarioNeto - 2038.10) * pt4 + cft4, 2);
     salarioNeto = salarioNeto - retencion;
 }
 
 Console.WriteLine("Usted pertenece al tramo " + tramo + " Se detallan sus impuestos en la siguiente tabla: ");
-Console.WriteLine("NOMBRE\t\tTRAMO\tRETENCION\tSALARIO NETO");
+Console.WriteLine("NOMBRE\t\tTRAMO\tRETENCION\tSALARIO NETO DESPUES DE RENTA");
 Console.WriteLine(nombre + "\t" + tramo + "\t" + retencion + "\t\t" + salarioNeto);
