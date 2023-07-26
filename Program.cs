@@ -1,5 +1,15 @@
-﻿// Ejercicio #5
+﻿// Ejercicio #6
 
-char d = 'D', i = 'i', e = 'e', g = 'g', o = 'o';
+// decimal a binario
+Console.Write("Por favor ingrese un número decimal para ser convertido a binario: ");
 
-Console.WriteLine(d + "\t" + i + "\t" + e + "\t" + g + "\t" + o);
+string n = Console.ReadLine();
+
+Console.WriteLine(Convert.ToString(Convert.ToInt32(n), 2));
+
+// binario a decimal
+Console.Write("Por favor ingrese un número binario para ser convertido a decimal: ");
+
+string b = Console.ReadLine();
+
+Console.WriteLine(Convert.ToInt32(b, 2));
