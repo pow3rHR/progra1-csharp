@@ -1,4 +1,10 @@
-﻿// Ejercicio #2
+﻿// Ejercicio #3
 
-double a = 5, b = 10, c = 20;
-Console.WriteLine(a + b / a % (c + 1));
+bool a = true, b = false, c = (true && false), d = (false || false);
+
+a = a || c;
+b = d;
+
+int x = 5;
+
+Console.WriteLine(--x < x || (a || b));
