@@ -1,10 +1,5 @@
-﻿// Ejercicio #3
+﻿// Ejercicio #4
 
-bool a = true, b = false, c = (true && false), d = (false || false);
+double m = (2 + 4 + 6 + 8 + 10) / 5;
 
-a = a || c;
-b = d;
-
-int x = 5;
-
-Console.WriteLine(--x < x || (a || b));
+Console.WriteLine(m);
