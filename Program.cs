@@ -1,11 +1,4 @@
-﻿// Ejercicio #1
+﻿// Ejercicio #2
 
-int x = 5, y = 8;
-
-y = x;
-x = x * x;
-y = y++;
-
-double z = x - y;
-
-Console.WriteLine(z--);
+double a = 5, b = 10, c = 20;
+Console.WriteLine(a + b / a % (c + 1));
