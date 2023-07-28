@@ -1,0 +1,5 @@
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.csproj.AssemblyReference.cache
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.AssemblyInfoInputs.cache
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.AssemblyInfo.cs
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.csproj.CoreCompileInputs.cache
