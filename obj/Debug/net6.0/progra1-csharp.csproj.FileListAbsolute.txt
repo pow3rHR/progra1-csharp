@@ -1,0 +1,15 @@
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.csproj.AssemblyReference.cache
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.AssemblyInfoInputs.cache
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.AssemblyInfo.cs
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.csproj.CoreCompileInputs.cache
+/home/diego/progra1-csharp/bin/Debug/net6.0/progra1-csharp
+/home/diego/progra1-csharp/bin/Debug/net6.0/progra1-csharp.deps.json
+/home/diego/progra1-csharp/bin/Debug/net6.0/progra1-csharp.runtimeconfig.json
+/home/diego/progra1-csharp/bin/Debug/net6.0/progra1-csharp.dll
+/home/diego/progra1-csharp/bin/Debug/net6.0/progra1-csharp.pdb
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.dll
+/home/diego/progra1-csharp/obj/Debug/net6.0/refint/progra1-csharp.dll
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.pdb
+/home/diego/progra1-csharp/obj/Debug/net6.0/progra1-csharp.genruntimeconfig.cache
+/home/diego/progra1-csharp/obj/Debug/net6.0/ref/progra1-csharp.dll
