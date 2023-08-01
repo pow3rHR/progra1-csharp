@@ -3,8 +3,8 @@
 
 // declaración de una función.
 
-int sumar() {
+/*int sumar() {
 
-}
+}*/
 
 // la función genera un error. ¿Por qué?
